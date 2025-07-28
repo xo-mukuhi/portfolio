@@ -1,5 +1,5 @@
 /**
-* Template Name: myportfolio
+* Template Name: Portfolio
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 * Updated: Mar 05 2025 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
